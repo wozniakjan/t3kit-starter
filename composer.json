@@ -64,7 +64,9 @@
     "squizlabs/php_codesniffer": "^3.4",
     "heahdude/yaml-linter": "^1.0"
   },
-  "suggest": {},
+  "suggest": {
+    "yoast-seo-for-typo3/yoast_seo": "This extension brings the content analyzer tools from YoastSEO to the interface of TYPO3 CMS"
+  },
   "autoload": {},
   "minimum-stability": "dev",
   "prefer-stable": true,
