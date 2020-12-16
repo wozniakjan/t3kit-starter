@@ -156,6 +156,6 @@ docker-compose up -d
 
 ## Community-contributed platforms
 
-These platforms are not officially supported by the t3kit team.
+These platforms are not officially supported by the t3kit team. DDEV
 
 * [Use t3kit with DDEV](.localconf/community/ddev/README.md)
